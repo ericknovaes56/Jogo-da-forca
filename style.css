@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.frase{
+    display: flex;
+    gap: 20px;
+}
+.frase input{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-bottom: 4px solid black;
+    outline: none;
+    font-size: 20px;
+    text-align: center;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.used{
+    background-color: #131313;
+    padding: 20px;
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 300px;
+    border-radius: 999px;
+    top: 20px;
+    display: flex;
+    justify-content: center;align-items: center;
+    height: 30px;
+}
