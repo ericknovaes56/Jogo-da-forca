@@ -13,7 +13,11 @@
     border-bottom: 4px solid black;
     outline: none;
     font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
 }
 header{
     display: flex;
